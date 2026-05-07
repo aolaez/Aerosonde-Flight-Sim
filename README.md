@@ -190,7 +190,7 @@ The GUI is organized into three main sections:
 - Displays: trim control surface positions
 - Export trim state for linearization
 
-![Trim Settings]([images/trimSettings.png)
+![Trim Settings](images/trimSettings.png)
 
 **Gains Tab** (Chapter 6+)
 - Linearized model analysis
