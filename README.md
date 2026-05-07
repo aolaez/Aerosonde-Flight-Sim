@@ -17,12 +17,18 @@ A comprehensive Python-based graphical interface for UAV (Unmanned Aerial Vehicl
 
 This project implements a complete UAV simulation environment that progresses through the first 8 chapters, of "Small Unmanned Aircraft: Theory and Practice" by Beard and McLain, each building upon previous concepts:
 
-**Chapter 2** - Coordinate frame transformations and rotations
-**Chapter 3** - Kinematic simulation (forces in vacuum)
-**Chapter 4** - Aerodynamics and gravity forces
-**Chapter 5** - Trim conditions and path planning
-**Chapter 6** - Closed-loop control with successive loop closure
-**Chapter 7** - Sensor integration and state plotting
+**Chapter 2** - Coordinate frame transformations and rotations  
+
+**Chapter 3** - Kinematic simulation (forces in vacuum)  
+
+**Chapter 4** - Aerodynamics and gravity forces  
+
+**Chapter 5** - Trim conditions and path planning  
+
+**Chapter 6** - Closed-loop control with successive loop closure  
+
+**Chapter 7** - Sensor integration and state plotting  
+
 **Chapter 8** - State estimation with Kalman filtering (WIP)
 
 The simulator includes:
