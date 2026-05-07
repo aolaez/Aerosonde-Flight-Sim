@@ -198,7 +198,7 @@ The GUI is organized into three main sections:
 - Eigenvalue visualization
 - Step response plots
 
-![Control Gains](images/controlGains.png)
+![Trim Settings](images/trimSettings.png)
 
 
 #### **Input/Control Tabs**
