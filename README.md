@@ -162,7 +162,7 @@ The GUI is organized into three main sections:
 - Grid and axis reference frame
 - Automatic or manual camera tracking
 
-**[images/vehicleModel.png]**
+![vehicleModel](images/vehicleModel.png)
 
 #### **Output/Analysis Tabs**
 
@@ -174,7 +174,7 @@ The GUI is organized into three main sections:
 - Angular rates: (p, q, r)
 - Derived quantities: Airspeed (Va), angle of attack (α), sideslip angle (β)
 
-**[images/statePlots.png]**
+![State Plots](images/statePlots.png)
 
 **Control Response Tab** (Chapters 6-8)
 - Reference vs. actual comparison plots
@@ -182,7 +182,7 @@ The GUI is organized into three main sections:
 - Control surface position monitoring
 - Trim input visualization
 
-**[images/controlPlots.png]**
+![Control Plots](images/controlPlots.png)
 
 **Trim Tab** (Chapter 6+)
 - Interface for computing trim conditions
@@ -190,7 +190,7 @@ The GUI is organized into three main sections:
 - Displays: trim control surface positions
 - Export trim state for linearization
 
-**[images/trimSettings.png]**
+![Trim Settings]([images/trimSettings.png)
 
 **Gains Tab** (Chapter 6+)
 - Linearized model analysis
@@ -198,7 +198,7 @@ The GUI is organized into three main sections:
 - Eigenvalue visualization
 - Step response plots
 
-**[images/controlGains.png]**
+![Control Gains](images/controlGains.png)
 
 
 #### **Input/Control Tabs**
@@ -214,14 +214,14 @@ The GUI is organized into three main sections:
 - Course/heading reference
 - Manual override controls
 
-**[images/referenceControl.png]**
+![Reference Control](images/referenceControl.png)
 
 **Wind Control**
 - Wind magnitude and direction adjustment
 - Real-time wind effect visualization
 - Affects aerodynamic forces
 
-**[images/windPanel.png]**
+![Wind Panel](images/windPanel.png)
 
 ---
 
